@@ -5,7 +5,7 @@ Welcome to the source code of my personal **CV/portfolio website**, built to sho
 
 ## 🌐 Live Website
 
-[Visit My Portfolio]([https://yourusername.github.io/your-repo-name](https://decodearyan.onrender.com))
+[Visit My Portfolio](https://decodearyan.onrender.com)
 
 ## 📁 Features
 
@@ -19,3 +19,5 @@ Welcome to the source code of my personal **CV/portfolio website**, built to sho
 * HTML
 * CSS
 * JavaScript
+
+Feel free to fork, star, or suggest improvements. Thanks for visiting!
