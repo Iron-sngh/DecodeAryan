@@ -5,7 +5,7 @@ Welcome to the source code of my personal **CV/portfolio website**, built to sho
 
 ## 🌐 Live Website
 
-[Visit My Portfolio](https://decodearyan.onrender.com)
+[Visit My Website](https://decodearyan.onrender.com)
 
 ## 📁 Features
 
